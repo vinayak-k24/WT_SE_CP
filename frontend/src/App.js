@@ -85,7 +85,7 @@ render() {
             <div className="col-sm-3">
               <h5>Legal</h5>
               <ul>
-                <li><Link to="#">Terms of Service</Link></li>
+                <li><Link to="#">Terms of Services</Link></li>
                 <li><Link to="#">Terms of Use</Link></li>
                 <li><Link to="#">Privacy Policy</Link></li>
               </ul>
